@@ -78,11 +78,11 @@ HEAD VALUES:
 TAIL VALUES:
 ![Screenshot 2025-03-20 025605](https://github.com/user-attachments/assets/efccfd2d-ca19-4eb9-9252-4ca6edb2cf58)
 ![Screenshot 2025-03-20 025615](https://github.com/user-attachments/assets/21124d7b-e221-4498-af9e-cb9d9324ee18)
-HOURS VALUES:
+
 ![Screenshot 2025-03-20 025626](https://github.com/user-attachments/assets/8d9ee1c9-5d63-4081-8b98-76e4c80362e4)
-Y_PREDICTION:
+
 ![Screenshot 2025-03-20 025635](https://github.com/user-attachments/assets/9f69e33a-27bc-4cb3-ae19-6a18ab866a83)
-RESULT OF MSE,MAE,RMSE:
+
 ![Screenshot 2025-03-20 025644](https://github.com/user-attachments/assets/6f3493cd-67cd-4bc8-bfff-5222e3b21652)
 
 ![simple linear regression model for predicting the marks scored](sam.png)
